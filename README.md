@@ -8,7 +8,7 @@
   - 💻 How to reach me via telegram: <a href="http://t.me/eugene0082" target="_blank" rel="noreferrer">@eugene0082</a>
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="eugene0082" height="350" width="350"/></p>
+<p><img align="right" src="https://github.com/AsixDev-Eugene0082/AsixDev-Eugene0082/animation_500_kxa883sd.gif" alt="eugene0082" height="350" width="350"/></p>
 
 <h3 align="left">Languages, Tools & Frameworks:</h3>
 <p>
